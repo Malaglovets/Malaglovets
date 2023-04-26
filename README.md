@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
+
 ### <h1>Всем Привет👋!!!</h1>
 
 ## <h2>🚀 Цели :</h2>
