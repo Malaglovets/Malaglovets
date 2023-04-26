@@ -1,5 +1,4 @@
-
-<div style="padding-top:100.000%;position:relative;"><img src="https://gifer.com/embed/1Kte" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen /></div><p><a href="https://gifer.com">через GIFER</a></p>
+<div style="width:100%;height:0;padding-bottom:125%;position:relative;"><iframe src="https://giphy.com/embed/b88QlTSTsj3bEHQyZf" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/BooleanCareers-transparent-b88QlTSTsj3bEHQyZf">via GIPHY</a></p>
 
 ### <h1>Всем Привет👋!!!</h1>
 
