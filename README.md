@@ -1,9 +1,8 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/BooleanCareers-transparent-b88QlTSTsj3bEHQyZf" width="100"/>
+  <img src="https://giphy.com/embed/b88QlTSTsj3bEHQyZf)" width="100"/>
 </div>
 
-
-### <h1>Всем Привет👋!!!</h1>
+<iframe src="https://giphy.com/embed/b88QlTSTsj3bEHQyZf" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/BooleanCareers-transparent-b88QlTSTsj3bEHQyZf">via GIPHY</a></p>### <h1>Всем Привет👋!!!</h1>
 
 ## <h2>🚀 Цели :</h2>
 
