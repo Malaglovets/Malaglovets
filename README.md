@@ -17,10 +17,10 @@
 
 
 
-### <h2>:fire: My Stats :</h2>
+### <h2>:fire: Моя статистика :</h2>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Malaglovets)](https://github.com/Malaglovets)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malaglovets)](https://github.com/Malaglovets)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaglovets&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-### 💻: Мои контакты :
+### <h2>💻: Мои контакты :</>div
