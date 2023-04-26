@@ -14,9 +14,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>
 </div>
-
+<div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Malaglovets)](https://github.com/Malaglovets)
-
+</div>
+<div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malaglovets)](https://github.com/Malaglovets)
-
+</div>
