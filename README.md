@@ -24,3 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaglovets&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### <h2>👨‍💻 Мои контакты :</div>
+<p>
+<a href="https://t.me/Malaglovets" title="https://t.me/Malaglovets"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="typescript" width="40" height="40" /></a>
+<a href="mailto:malaglovets.v@gmail.com" title="malaglovets.v@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="typescript" width="40" height="40" /></a>
+</p>
