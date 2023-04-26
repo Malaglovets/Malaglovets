@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" width="100"/>
 </div>
 
-<divalign="center">Всем привет🖐️!</div>
+<div align="center">Всем привет🖐️!</div>
 
 ## <h2>🚀 Цели :</h2>
 
