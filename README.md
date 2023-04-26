@@ -23,4 +23,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malaglovets)](https://github.com/Malaglovets)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaglovets&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-### <h2>💻 Мои контакты :</div>
+### <h2>👨‍💻 Мои контакты :</div>
