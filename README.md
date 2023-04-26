@@ -1,5 +1,6 @@
 
-<img src="https://i.gifer.com/1Kte.gif" width="40" height="40"/>
+<div style="padding-top:100.000%;position:relative;"><img src="https://gifer.com/embed/1Kte" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen /></div><p><a href="https://gifer.com">через GIFER</a></p>
+
 ### <h1>Всем Привет👋!!!</h1>
 
 ## <h2>🚀 Цели :</h2>
