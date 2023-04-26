@@ -1,10 +1,15 @@
 ### Всем Привет👋!!!
+🚀 В планах:
+Работать в сильной, замотивированной команде 💪
 
-Мой стек: JS
+Создавать полезные проекты 🧠
 
-ССылки на социальные сети:
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://https://www.youtube.com/@malaglovets
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](/https://instagram.com/malaglovets.v
+Освоить новые фреймворки 🤖
 
-Моя статистика:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malaglovets)]([)](https://github.com/Malaglovets/Malaglovets/edit/main/README.md)
+Писать чистый код 👩‍💻
+
+📅 Сейчас:
+Изучаю Vue.js и алгоритмы 👩‍💻
+
+🛠️ Мой стек:
+html5 css3 javascript webpack react git typescript
